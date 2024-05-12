@@ -46,4 +46,3 @@ index_pos = sorted(list(enumerate(similarity)),reverse=True,key=lambda x:x[1])[0
 temp_img = cv2.imread(filenames[index_pos])
 cv2.imshow('output',temp_img)
 cv2.waitKey(0)
-# recommend that image
