@@ -1,7 +1,8 @@
 mtcnn==0.1.0
-tensorflow==2.12.0
-keras-vggface
-keras_applications
+tensorflow==2.4.0
+keras==2.2.4
+keras-vggface==0.6
+keras_applications==1.0.8
 streamlit
 
 
