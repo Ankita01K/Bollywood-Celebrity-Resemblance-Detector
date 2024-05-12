@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 11 01:26:09 2024
 
-@author: RAM_ANURAG
-"""
-
+from keras.engine import get_source_inputs
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 import pickle
