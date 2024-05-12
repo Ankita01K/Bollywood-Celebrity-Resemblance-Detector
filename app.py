@@ -1,5 +1,5 @@
 
-from keras.engine import get_source_inputs
+from keras.utils.layer_utils import get_source_inputs
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 import pickle
