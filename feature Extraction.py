@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 11 00:54:05 2024
-
-@author: RAM_ANURAG
-"""
-
 #import os
 #import pickle
 
