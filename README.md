@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-**This project employs Convolutional Neural Networks (CNNs), specifically the VGG-Face architecture, to identify resemblances between uploaded images and Bollywood celebrities. By leveraging pre-trained models and advanced image processing techniques, we've created a robust system capable of suggesting the closest match from a dataset of over 8600 celebrity images.**
+**This project employs Convolutional Neural Networks (CNNs), specifically the VGG-Face architecture, to identify resemblances between uploaded images and Bollywood celebrities. By leveraging pre-trained models and advanced image processing techniques, we've created a robust system capable of suggesting the closest match from a dataset of over 8664 celebrity images.**
 
 ## **How Does it Work?**
 
@@ -31,21 +31,20 @@
 
 ## **To run the project locally, follow these steps:**
 
-+ **Clone this repository .**
 
-  > 
++ **Clone this repository**
+
+  > https://github.com/Ankita01K/Bollywood-Celebrity-Resemblance-Detector.git
 
 + **Install required dependencies using**
 
-  > pip install -r requirements.txt.
-  
+  > pip install -r requirements.txt. 
 
 + **Run the Streamlit app using**
 
   > streamlit run app.py
   
-
-+ **Upload your image and discover your Bollywood celebrity resemblance
++ **Upload your image and discover your Bollywood celebrity resemblance**
 
   
 ## Demo
