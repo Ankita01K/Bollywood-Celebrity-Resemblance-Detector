@@ -33,4 +33,8 @@
 
 ![Screenshot 2024-05-13 210207](https://github.com/Ankita01K/Bollywood-Celebrity-Resemblance-Detector/assets/123232024/a7dba571-e8a1-406a-b079-06988b26fbd8)
 
+Fun Fact I Look like Taapsee Pannu :sweat_smile:
+
+![Screenshot 2024-05-13 210646](https://github.com/Ankita01K/Bollywood-Celebrity-Resemblance-Detector/assets/123232024/ad976be8-7d8e-4a42-bc7e-9a4c9ac91998)
+
 
