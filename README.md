@@ -1,10 +1,10 @@
 # 🎥 **Bollywood Celebrity Resemblance Detector** 🎬
 
-## **Overview**
+## 🎭 **Overview**
 
 **This project employs Convolutional Neural Networks (CNNs), specifically the VGG-Face architecture, to identify resemblances between uploaded images and Bollywood celebrities. By leveraging pre-trained models and advanced image processing techniques, we've created a robust system capable of suggesting the closest match from a dataset of over 8664 celebrity images.**
 
-## **How Does it Work?**
+## 🔍 **How It Works:**
 
 **The core of our approach lies in utilizing VGG-Face's convolutional layers for feature extraction, discarding the final fully connected layers. By customizing this established architecture, we ensure accurate facial feature recognition. Here's a more detailed breakdown of the process:**
 
@@ -31,7 +31,7 @@
 **5.Website Building: Leveraging Streamlit, we developed a user-friendly interface for showcasing the project, enabling users to upload their images and receive instant resemblance suggestions.**
 
 
-## **To run the project locally, follow these steps:**
+## 🚀 **To run the project locally, follow these steps:**
 
 
 + **Clone this repository**
@@ -49,7 +49,7 @@
 + **Upload your image and discover your Bollywood celebrity resemblance**
 
   
-## Demo
+## ✨ Demo
 
 ![Screenshot 2024-05-12 160832](https://github.com/Ankita01K/Bollywood-Celebrity-Resemblance-Detector/assets/123232024/03a01f46-9656-4942-8625-d227189bd038)
 
