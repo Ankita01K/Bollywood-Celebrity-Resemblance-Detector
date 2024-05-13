@@ -1,4 +1,4 @@
-# **Bollywood Celebrity Resemblance Detector**
+# 🎥 **Bollywood Celebrity Resemblance Detector** 🎬
 
 ## **Overview**
 
