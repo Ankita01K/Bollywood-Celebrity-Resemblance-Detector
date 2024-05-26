@@ -1,4 +1,5 @@
 from keras.utils.layer_utils import get_source_inputs
+from tensorflow.keras.utils import plot_model
 from keras_vggface.utils import preprocess_input
 from keras_vggface.vggface import VGGFace
 import pickle
