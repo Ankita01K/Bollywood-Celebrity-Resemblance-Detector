@@ -25,7 +25,7 @@
        to preprocess uploaded images, ensuring uniformity by isolating only the facial part for further analysis.**
    
 
-**4.Recommendation Algorithm : We implemented a cosine similarity-based algorithm to suggest the most similar image from our dataset based on feature vectors extracted from uploaded images.**
+**4.Recommendation Algorithm : We calculate  a cosine distance to suggest the most similar image from our dataset based on feature vectors extracted from uploaded images.**
 
 
 **5.Website Building: Leveraging Streamlit, we developed a user-friendly interface for showcasing the project, enabling users to upload their images and receive instant resemblance suggestions.**
